@@ -1,0 +1,18 @@
+{"Laptops":[
+{
+    "marque": "Dell XPS",
+    "os": "kali",
+    "size": "SMALL",
+},
+{
+    "marque": "Dell XPS",
+    "os": "kali",
+    "size": "SMALL",
+},
+{
+    "marque": "Dell XPS",
+    "os": "kali",
+    "size": "SMALL",
+}
+]
+}

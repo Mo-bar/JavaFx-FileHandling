@@ -1,0 +1,4 @@
+ Asus | Windows | MEDIUM
+ Dell | UBUNTO | LARGE
+ Mac book | Mac | SMALL
+ Lenevo | Kali | SMALL
